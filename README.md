@@ -16,7 +16,7 @@
   <br>
   🔬 I'm currently studying for my graduate degree at COMSATS University, Department of Computer Science
   <br>
-  💻 I am passionate about all things tech but am highly interested in cyber security but am currently working as a software engineere
+  💻 I am passionate about all things tech but am highly interested in cyber security. I am currently working as a software engineer
   <br>
   ⚡ Junior Full Stack Web Developer
   <br>
