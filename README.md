@@ -60,7 +60,7 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=incognito-root&theme=react&border=61dafb&hide_border=true" alt="SAADSULEMAN053" />
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=incognito-root&theme=react&border=61dafb&hide_border=true" alt="incognito-root" />
     </a>
     <a href="https://github.com/incognito-root/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=incognito-root&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
@@ -82,19 +82,17 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
- <a align="left" href="https://github.com/incognito-root/Ordering-Tablemaster.git" title="Ordering App for Table Master"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=incognito-root&repo=Ordering-Tablemaster&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/incognito-root/Ordering-Tablemaster.git" title="Ordering-Tablemaster"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=incognito-root&repo=Ordering-Tablemaster&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/SAADSULEMAN053/Calculator-JavaFx" title="Calculator-JavaFx"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SAADSULEMAN053&repo=Calculator-JavaFx&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-
 
 <br/><br/><br/><br/><br/><br/>
 <h2 align="center">🤝 Collabrative Work 🤝</h2>
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/MuhammedZohaib/HitFit-Gym-App" title="HitFit-Gym-App"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammedZohaib&repo=HitFit-Gym-App&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/incognito-root/Admin-TableMaster.git" title="Ordering-Tablemaster"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=incognito-root&repo=Admin-TableMaster&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 
 <br/><br/><br/><br/><br/><br/>
